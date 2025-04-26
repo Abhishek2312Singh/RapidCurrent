@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+        {
+            "source": {
+                "id": "news24",
+                "name": "News24"
+            },
+            "author": "fin24",
+            "title": "South Africa's land reform rises from 'the ashes of dispossession'",
+            "description": "The Matsamo Communal Property Association (CPA) now owns more than 14 000 hectares which they manage in cooperation with white farmers in a rare model of successful land reform.",
+            "url": "https://www.news24.com/fin24/economy/south-africas-land-reform-rises-from-the-ashes-of-dispossession-20250413",
+            "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/12793/cc1a2c68bd004a33830dee09528a2789.jpg",
+            "publishedAt": "2025-04-13T15:52:12",
+            "content": "The Matsamo Communal Property Association (CPA) now owns more than 14 000 hectares which they manage in cooperation with white farmers in a rare model of successful land reform."
+        },
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": "CBC News",
+            "title": "Urban sugaring a success for one Haligonian, but city not so sweet on idea | CBC News",
+            "description": "A Halifax man produced two litres of syrup from a maple on his property and another on the city's property. But the city says it can damage trees.",
+            "url": "http://www.cbc.ca/news/canada/nova-scotia/urban-sugaring-halifax-1.7500868",
+            "urlToImage": "https://i.cbc.ca/1.7500870.1743688894!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_1180/maple-syrup-from-municipal-tree.jpeg?im=Resize%3D620",
+            "publishedAt": "2025-04-13T14:07:18.4736782Z",
+            "content": "Growing up among the concrete and asphalt of New York City, Brian Longo was fascinated by nature and the idea of using the nature at hand to produce food.\r\nLongo says he remembers travelling to Calif… [+3558 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "Victoria Pengilley",
+            "title": "Boy aged nine killed in accidental shooting near Goulburn",
+            "description": "Officers were told the nine-year-old had been injured after the accidental discharge of a firearm on a rural property in southern NSW.",
+            "url": "https://www.abc.net.au/news/2025-04-13/boy-nine-dies-accidental-shooting-near-goulburn-nsw/105171638",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/3c46fe47e2cd003f8f2d9adf658146af?impolicy=wcms_watermark_news&cropH=1901&cropW=3379&xPos=0&yPos=176&width=862&height=485&imformat=generic",
+            "publishedAt": "2025-04-13T05:46:42Z",
+            "content": "A nine-year-old boy has been accidentally shot on a rural property near Goulburn in southern New South Wales.\r\nEmergency services were called to the property in Windellama about 11.20am on Sunday mor… [+1088 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": null,
+            "title": "Watch Out for Physical Sabotage by Chinese Spies in the U.S. | Opinion",
+            "description": "For decades, China's cyber espionage centered on stealing intellectual property from the United States to bolster its own military and economy.",
+            "url": "https://www.newsweek.com/watch-out-physical-sabotage-chinese-spies-us-opinion-2058610",
+            "urlToImage": "https://d.newsweek.com/en/full/2625727/less-friends.jpg",
+            "publishedAt": "2025-04-11T13:57:58Z",
+            "content": "For decades, China's cyber espionage centered on stealing intellectual property from the United States to bolster its own military and economy. But as its hackers grew more proficient at penetrating … [+5213 chars]"
+        },
+        {
+            "source": {
+                "id": "the-globe-and-mail",
+                "name": "The Globe And Mail"
+            },
+            "author": "Erica Alini",
+            "title": "‘It’s a dog eat dog world’ as housing cool-down helps ignite rental market wars",
+            "description": "Rents in many parts of Canada are nearing or surging past prepandemic records, just as property values and home resale transactions declined for the second consecutive month in May",
+            "url": "https://www.theglobeandmail.com/investing/personal-finance/household-finances/article-its-a-dog-eat-dog-world-as-housing-cool-down-helps-ignite-rental/",
+            "urlToImage": "https://www.theglobeandmail.com/resizer/k4SzzUz-fDXLTPrBSHk8c8OwZCs=/1200x801/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/OUZ33GZN4VBJZCAFM4TXYDFKAI.JPG",
+            "publishedAt": "2022-06-16T09:00:00Z",
+            "content": "A sign advertising a house for rent in Ottawa, Ont., on May 16.Spencer Colby/The Globe and Mail\r\nJust as Canadas home sales and prices cool off, the rental market is catching fire.\r\nRents in many par… [+4720 chars]"
+        }
+    ]
+}
