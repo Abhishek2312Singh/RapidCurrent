@@ -57,7 +57,7 @@ export default class News extends Component {
   render() {
     return (
       <div className="container my-5">
-        <h1 className="text-center">RapidCurrent - Top {this.capitlizeFirstLetter(this.props.category)} Headlines</h1>
+        <h1 className="text-center" style={{marginTop:'70px'}}>RapidCurrent - Top {this.capitlizeFirstLetter(this.props.category)} Headlines</h1>
         {this.state.loading && <Spinner />}
         <div className="row">
           {!this.state.loading &&

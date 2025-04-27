@@ -6,7 +6,7 @@ export class Navbar extends Component {
   render() {
     return (
       <div>
-        <nav className="navbar navbar-expand-lg bg-body-dark navbar-dark bg-dark">
+        <nav className="navbar navbar-expand-lg fixed-top bg-body-dark navbar-dark bg-dark">
           <div className="container-fluid">
             <Link className="navbar-brand" to="/">
               RapidCurrent
